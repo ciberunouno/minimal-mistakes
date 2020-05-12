@@ -1,5 +1,6 @@
 ---
 published: true
+title: ''
 ---
 ## A New Post
 
