@@ -2,7 +2,7 @@
 published: true
 title: ''
 ---
-![Purbea imagen webp]({{site![pdf-capas.jpg]({{site.baseurl}}/_posts/pdf-capas.jpg)
+![Purbea imagen webp](/_posts/pdf-capas.jpg)
 ![plplp]({{site.baseurl}}/_posts/inteligencia-artificial-campo-crecimiento-tecnologicox636.webp)![inteligencia-artificial-campo-crecimiento-tecnologicox636.webp]({{site.baseurl}}/_posts/inteligencia-artificial-campo-crecimiento-tecnologicox636.webp)
 .baseurl}}/_posts/11-android-11-desarrolladores.webp)
 ## A New Post
