@@ -296,6 +296,10 @@ prose:
         field:
           element: "hidden"
           value: "splash"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "tags"
         field:
           element: "multiselect"
