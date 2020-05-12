@@ -1,6 +1,6 @@
 ---
 layout: splash
-published: false
+published: true
 tags:
   - bananas
 ---
