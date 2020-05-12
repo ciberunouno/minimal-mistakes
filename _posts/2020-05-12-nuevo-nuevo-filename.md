@@ -1,6 +1,7 @@
 ---
 layout: splash
 published: true
+title: "Nuevo Dos Corregir Layaout"
 tags:
   - bananas
 ---
